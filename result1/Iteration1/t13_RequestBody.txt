@@ -1,0 +1,5 @@
+"advSearch=%7B%22criteria%22%3A%5B%7B%22field%22%3A%22userid%22%2C%22operator%22%3A%22~%22%2C%2"
+"2value%22%3A%22HAAS0168%22%7D%5D%2C%22search%22%3A%22%22%7D&getHeader=&searchName=&search=&act"
+"ion=search&subAction=init&language=en-US&sessionData=%2F%2FJxZvXF%2BGR9NU9A8uJ%2Fo04a%2FuT%2FO"
+"z4zLysRpQAZoBO117Dd8zWxhVztHHXcoXAds%2BoI2B90HH9emhkClZbrHi%2Bk4LBQ%2FXe%2Bktag%2FiuHbZSp734xt"
+"XJO%2FKv5sOw7orO7&skin=default&transaction=C_SELECT_USER"

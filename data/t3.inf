@@ -1,0 +1,15 @@
+[t3]
+FileName1=t3.htm
+URL1=http://qa-stress190-vm/fox1010r-1522/cgi/psf.exe
+Total=3
+RequestHeaderFile=t3_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t3_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_3.xml
+FileName2=t3_hitachi-white.png
+URL2=http://qa-stress190-vm/fox1010r-1522/docs/pics/hitachi-white.png
+FileName3=t3_qrcode.html
+URL3=http://qa-stress190-vm/fox1010r-1522/docs/default/js/qrcode.js
+[ProtocolInfo]
+ProtocolId=QTWeb

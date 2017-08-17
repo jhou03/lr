@@ -1,0 +1,15 @@
+[t17]
+FileName1=t17.html
+URL1=http://qa-stress190-vm/fox1010r-1522/cgi/ajax.exe?checkPasswordRules:checkRules
+Total=3
+RequestHeaderFile=t17_RequestHeader.txt
+RequestBodyFile=t17_RequestBody.txt
+ResponseHeaderFile=t17_ResponseHeader.txt
+ContentType=text/json
+SnapshotXmlFile=snapshot_17.xml
+FileName2=t17_greenlight.png
+URL2=http://qa-stress190-vm/fox1010r-1522/docs/pics/greenlight.png
+FileName3=t17_redlight.png
+URL3=http://qa-stress190-vm/fox1010r-1522/docs/pics/redlight.png
+[ProtocolInfo]
+ProtocolId=QTWeb

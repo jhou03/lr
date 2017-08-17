@@ -1,0 +1,8 @@
+GET /fox1010r-1656/ HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US
+Accept: */*
+Connection: Keep-Alive
+Host: qa-stress190-vm
+

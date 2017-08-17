@@ -1,0 +1,3 @@
+"pass=5*Hotel&checkoutId=&action=checkPasswordRules&subAction=checkRules&language=en-US&session"
+"Data=iTseAHwFdps5jYZcuuPyhZhNf7TjbUczpjizCAw0eyTvN9xhgOydvsU%2BetzSFV2TSmbY9UZbqQnHjGVKjngscuz"
+"1J%2B7tWE60gnDxnHEzwl65fSi5hCKkofrd2WKUihKz&skin=default&transaction=C_CHANGE"

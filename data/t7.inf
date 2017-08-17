@@ -1,0 +1,15 @@
+[t7]
+FileName1=t7.htm
+URL1=http://qa-stress190-vm/fox1010r-1522/cgi/ida.exe
+Total=3
+RequestHeaderFile=t7_RequestHeader.txt
+RequestBodyFile=t7_RequestBody.txt
+ResponseHeaderFile=t7_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_7.xml
+FileName2=t7_search.png
+URL2=http://qa-stress190-vm/fox1010r-1522/docs/pics/search.png
+FileName3=t7_spinner.gif
+URL3=http://qa-stress190-vm/fox1010r-1522/docs/pics/spinner.gif
+[ProtocolInfo]
+ProtocolId=QTWeb

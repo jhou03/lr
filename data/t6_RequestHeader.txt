@@ -1,0 +1,14 @@
+POST /fox1010r-1522/cgi/psf.exe HTTP/1.1
+Referer: http://qa-stress190-vm/fox1010r-1522/
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json, text/plain, */*
+Accept-Language: en-US
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
+Host: qa-stress190-vm
+Content-Length: 278
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: HITACHI-ID=9207077c-7ab4-415c-8721-f59be5ceba9e
+

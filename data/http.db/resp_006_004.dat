@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hitachi ID Identity and Access Management Suite: Log in</title>
+
+</head>
+<body class="default noSide" data-transaction="C_AUTHCHAIN_LOGIN">
+<div class="localRoot">
+<a name="top"></a>
+<form name="theform" method="post" action="psf.exe" autocomplete="off" >
+<div class="dark pageContainer" data-focus="_MYPW" >
+<span class="topMargin">
+<!-- 81A84EBD-2CE5-4794-8341-E1828711FFBC -->
+<input name="TRANSACTION" type="hidden" value="C_AUTHCHAIN_LOGIN" />
+<input name="SESSDATA" type="hidden" value="77CJrWJTnTZlbi+Ta9fNUbojnQ37ZMLrVmchc/Z+zcZZaUxkXf4ygPIYGbqDm9zCtfNN23QKY45LEL6PQP+TQShNMATVU3POidSrkqsxBTsNE8veIzxtTR6CjQIf5mEh" />
+<input disabled="disabled" name="MENUSESSDATAURL" type="hidden" value="4YG18eW7aSNKsLXVz7T2yQSiBh%2b0bKggD7zpR7xxCYfdpn1D01GqF9opaCTWJkHBwDuysdUMrNu7N2PdnkfoRhHthH6MmoKJvWW1EeFsfWvp%2boBo%2bWL5PhFXSGQoPOOA" />
+<input disabled="disabled" name="MINSESSDATAURL" type="hidden" value="DFBa9HWpDI95QD2vguCsfaEmXnqgKV%2fEvKZqVMjW3bd1JKt%2foaCSiHQPY4RCmRdg%2bHPXEzOWimJmYTN4ItzRbYf5poRu0AbjLwm6q3ReUh43e0FQPRcTx6PkhPbI1yfl" />
+<input disabled="disabled" name="SUBPAGESESSDATAURL" type="hidden" value="" />
+<input disabled="disabled" name="SESSLENGTH" type="hidden" value="999999" />
+<input name="SKIN" type="hidden" value="default" />
+<input name="LANG" type="hidden" value="en-US" />
+<input disabled="disabled" name="userKey" type="hidden" value="O/aFldWRipB+/cMTM+wN4Vqmgbq8h6QKO/OYwIY9l4HAdiNmAX+lIi5ApkHw13VdX2iNCo8gw0ahkmgEzG9Yuw==" />
+<input disabled="disabled" name="userInstKey" type="hidden" value="9GwuFs6Vae2lqLGjIUQI2j9tGfIKG/Qpc41zbD9zIG7sKWA0uHoiYpVxUFNuK9OEH/rURBXqgcUdvpBZ4xPFFg==" />
+<input data-dateFormat="M/d/yyyy" data-dateTimeFormat="M/d/yyyy h:mm tt" data-timeFormat="h:mm tt" data-utcOffset="-360" data-preferredOffset="-360" data-displayTimezones="" disabled="disabled" class="currentDateTime" type="hidden" value="2017-05-05 19:37:58 (UTC-06:00)" />
+<input alt="" class="hideOnLoad DEFAULT_PAGE_ACTION" name="DEFAULT_UNUSED_BUTTON.x" src="docs/pics/spacer.gif" style="border: none; height: 1px; width: 1px;" tabindex="1000" title="" type="submit" />
+<input disabled="disabled" class="closeAction" type="hidden" value="" />
+&nbsp;
+<input class="" name="SUBMIT-BACK.x" type="submit" value="Back" />
+<input disabled="disabled" name="SUBMIT-HOME.x" type="submit" value="Main menu" />
+<input disabled="disabled" name="SUBMIT-REFRESH.x" type="submit" value="Refresh" />
+<input class="" name="SUBMIT-LOGOUT.x" type="submit" value="Logout" />
+<input class="" name="SUBMIT-CLOSE.x" type="submit" value="Close" />
+</span><!-- end .topMargin -->
+<div class="pageHeader">
+<div class="companyLogo"><img src="docs/pics/hitachi-white.png" width="125" height="20" alt="Hitachi" /></div>
+<div class="topMenuBar">
+
+<ul class="hide topMenu" role="navigation"></ul>
+<div class="close" title="Close"><i class="fa fa-lg fa-close"></i></div>
+<div class="closeDividier divider"></div>
+<div class="user"><div><i class="fa fa-lg fa-user"></i> <span class="name">Bishop, Abbey</span> <i class="fa fa-caret-down"></i></div><div class="positionWrapper"><div class="wrapper"><div class="userContent"><div class="idWithPrefix"><i class="fa fa-lg fa-unlock"></i> ID: <span class="id">ABBE000</span></div><div aria-haspopup="true" class="selectLanguage"><i class="fa fa-lg fa-globe"></i> <span class="selectedLanguage"></span> <div class="caret"></div></div><div class="logout "><i class="fa fa-lg fa-power-off"></i> Logout</div></div></div></div></div>
+</div><!-- end .topMenuBar -->
+</div><!-- end .pageHeader -->
+<div class="contentWrapper" role="main">
+<div class="hide navSidebar" role="navigation">
+
+</div>
+<div class="hide panelResize sidebarResize"><div><div></div></div></div>
+<div class="contentScroll">
+<div class=" pageContent">
+
+
+<div class="contentPad">
+<h1>
+Log in
+<span class="selectedObj">  </span>
+</h1>
+
+<br />
+
+<span class="bold"        >
+</span>
+
+<table  cellspacing="0" class="border"       >
+<tbody>
+<tr   >
+<td class="prompt"        >
+<span         >Enter password for Corporate AD:
+</span>
+
+</td>
+<td         >
+<input     maxlength="250" name="_MYPW"  style="width: 19em;"  type="password"  />
+</td>
+</tr>
+</tbody>
+<tfoot>
+  <tr>
+    <td  colspan="2"    >
+<input  class="submit "       name="SUBMIT-VERIFY.x"    type="submit" value="Log in" />
+    </td>
+  </tr>
+</tfoot>
+</table>
+
+<input type="hidden" name="SETTABLEFIELDSDB" value="" />
+<input type="hidden" name="SETTABLEFIELDSCOOKIE" value="" />
+</div><!-- end contentPad -->
+</div><!-- end .pageContent -->
+</div><!-- end .contentScroll -->
+</div><!-- end .contentWrapper -->
+<div class="pageFooter">
+<div class="footerVersion"><b>Hitachi ID Identity and Access Management Suite</b> v10.1.0.1630</div>
+<div class="footerCompany">
+Hitachi ID Testing
+</div>
+<div class="footerCopyright">
+<div>
+&nbsp;<sup>&nbsp;</sup>&copy; 2017 <a class="footerLink" href="http://Hitachi-ID.com" rel="external" target="_blank">Hitachi ID Systems, Inc.</a>
+</div>
+</div>
+</div>
+</div><!-- end .pageContainer -->
+</form>
+<div class="dark darkContainer"></div>
+<div class="light lightContainer"></div>
+</div><!-- end .localRoot -->
+</body>
+</html>

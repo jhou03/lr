@@ -1,0 +1,12 @@
+POST /fox1010r-1656/cgi/ajax.exe?language:list HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Referer: http://qa-stress190-vm/fox1010r-1656/
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US
+Accept: */*
+Connection: Keep-Alive
+Host: qa-stress190-vm
+Cookie: HITACHI-ID=9207077c-7ab4-415c-8721-f59be5ceba9e
+Content-Length: 233
+

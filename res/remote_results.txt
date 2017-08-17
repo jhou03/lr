@@ -1,0 +1,2 @@
+[Hosts]
+localhost=C:\LR\Scripts\pm101IdaHelpDeskReset\res\localhost_1.eve

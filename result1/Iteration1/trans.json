@@ -1,0 +1,57 @@
+[
+    {
+        "transactionName": "Connect",
+        "rawStartTime": 1494259909242,
+        "rawEndTime": 1494259911720
+    },
+    {
+        "transactionName": "Login-SetUser",
+        "rawStartTime": 1494259911725,
+        "rawEndTime": 1494259911959
+    },
+    {
+        "transactionName": "Login-SetPasswd",
+        "rawStartTime": 1494259911972,
+        "rawEndTime": 1494259913649
+    },
+    {
+        "transactionName": "Login-Total",
+        "rawStartTime": 1494259911724,
+        "rawEndTime": 1494259913649
+    },
+    {
+        "transactionName": "Click-Help-others",
+        "rawStartTime": 1494259913652,
+        "rawEndTime": 1494259914419
+    },
+    {
+        "transactionName": "ajax-Search-IdContains",
+        "rawStartTime": 1494259914423,
+        "rawEndTime": 1494259914856
+    },
+    {
+        "transactionName": "Ida-SelectOtherUser",
+        "rawStartTime": 1494259914859,
+        "rawEndTime": 1494259915180
+    },
+    {
+        "transactionName": "ajax-checkPasswordRules",
+        "rawStartTime": 1494259915181,
+        "rawEndTime": 1494259915715
+    },
+    {
+        "transactionName": "Ida-Reset",
+        "rawStartTime": 1494259915718,
+        "rawEndTime": 1494259916214
+    },
+    {
+        "transactionName": "Logout",
+        "rawStartTime": 1494259916217,
+        "rawEndTime": 1494259916435
+    },
+    {
+        "transactionName": "Re-login-page",
+        "rawStartTime": 1494259916436,
+        "rawEndTime": 1494259916533
+    }
+]

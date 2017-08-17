@@ -1,0 +1,13 @@
+[t9]
+FileName1=t9.html
+URL1=http://qa-stress190-vm/fox1010r-1522/cgi/ajax.exe?search
+Total=2
+RequestHeaderFile=t9_RequestHeader.txt
+RequestBodyFile=t9_RequestBody.txt
+ResponseHeaderFile=t9_ResponseHeader.txt
+ContentType=text/json
+SnapshotXmlFile=snapshot_9.xml
+FileName2=t9_select.png
+URL2=http://qa-stress190-vm/fox1010r-1522/docs/pics/select.png
+[ProtocolInfo]
+ProtocolId=QTWeb

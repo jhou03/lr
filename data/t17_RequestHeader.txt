@@ -1,0 +1,14 @@
+POST /fox1010r-1522/cgi/ajax.exe?checkPasswordRules:checkRules HTTP/1.1
+Accept: application/json, text/javascript, */*; q=0.01
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Referer: http://qa-stress190-vm/fox1010r-1522/help-users/r~f0416b00-fa4c-4fa0-aa1e-e6dd89b7f3cd
+Accept-Language: en-US
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
+Host: qa-stress190-vm
+Content-Length: 259
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: HITACHI-ID=9207077c-7ab4-415c-8721-f59be5ceba9e
+
