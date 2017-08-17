@@ -24,10 +24,12 @@
     <FileEntry Name="Breakpoints.xml" Filter="2" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="2" />
     <FileEntry Name="ReplaySummaryReport.xml" Filter="2" />
+    <FileEntry Name="ScriptVcsSettings.xml" Filter="2" />
     <FileEntry Name="UserTasks.xml" Filter="2" />
     <FileEntry Name="profile.dat" Filter="2" />
     <FileEntry Name="combined_pmIdaHelpDeskReset.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name=".gitignore" Filter="1" />
     <FileEntry Name="12114253244.idx" Filter="1" />
     <FileEntry Name="17783261444.idx" Filter="1" />
     <FileEntry Name="20542414444.idx" Filter="1" />
@@ -36,6 +38,7 @@
     <FileEntry Name="6700766444.idx" Filter="1" />
     <FileEntry Name="8745555844.idx" Filter="1" />
     <FileEntry Name="custom_body_variables.txt" Filter="1" />
+    <FileEntry Name="HelpUserID.dat" Filter="1" />
     <FileEntry Name="logfile.log" Filter="1" />
     <FileEntry Name="lrw_custom_body.h" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
@@ -46,10 +49,14 @@
     <FileEntry Name="pm101IdaHelpDeskReset.prm.bak" Filter="1" />
     <FileEntry Name="pmIdaHelpDeskReset.c.pickle" Filter="1" />
     <FileEntry Name="pmIdaHelpDeskReset.ci" Filter="1" />
+    <FileEntry Name="pmIdaHelpDeskReset.lrs" Filter="1" />
+    <FileEntry Name="pmIdaHelpDeskReset.prm.bak" Filter="1" />
     <FileEntry Name="pmIdaHelpDeskReset.sdf" Filter="1" />
     <FileEntry Name="profile.dat~" Filter="1" />
+    <FileEntry Name="README.md" Filter="1" />
     <FileEntry Name="replay.har" Filter="1" />
     <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
+    <FileEntry Name=".git\" Filter="1" />
     <FileEntry Name="data\" Filter="1" />
     <FileEntry Name="res\" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />
